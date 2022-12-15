@@ -1,6 +1,6 @@
 ![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Shruti Joshi</h1>
+<h1 margin-top = "-22px" align="center">Hi 👋, I'm Shruti Joshi</h1>
 <h3 align="center">A passionate full Stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" />
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://shrutijoshi.hashnode.dev/](https://shrutijoshi.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT AND REACT**
+- 💬 Ask me about **HTML ,CSS, Javascript, Java, react**
 
 - 📫 How to reach me **shrutitech1998@gmail.com**
 
