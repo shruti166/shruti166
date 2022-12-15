@@ -1,7 +1,7 @@
+<h1 align = "center">Hello folks👋 ,Welcome to my github profile</h1>
+<img src = "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" height = "350px" width = "100%"/>
 
-![MasterHead](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)
-
-<h1 margin-top = "-22px" align="center">Hi 👋, I'm Shruti Joshi</h1>
+<h1 margin-top = "-22px" align="center"> I'm Shruti Joshi</h1>
 <h3 align="center">A passionate full Stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" />
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **HTML ,CSS, Javascript, Java, react**
 
-- 📫 How to reach me **shrutitech1998@gmail.com**
+- 📫 How to reach me **shrutitech98@gmail.com**
 
 - 📄 Know about my experiences [https://www.hiration.com/dieu/resume/shruti.chemistry.lm/pdf](https://www.hiration.com/dieu/resume/shruti.chemistry.lm/pdf)
 
