@@ -1,5 +1,5 @@
 <h1 align = "center">Hello folks👋 ,Welcome to my github profile</h1>
-<img src = "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" height = "350px" width = "100%"/>
+<img src = "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" height = "300px" width = "100%"/>
 
 <h1 margin-top = "-22px" align="center"> I'm Shruti Joshi</h1>
 <h3 align="center">A passionate full Stack web developer from India</h3>
