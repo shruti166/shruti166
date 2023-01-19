@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **shrutitech98@gmail.com**
 
-- 📄 Know about my experiences [https://www.hiration.com/dieu/resume/shruti.chemistry.lm/pdf](https://www.hiration.com/dieu/resume/shruti.chemistry.lm/pdf)
+- 📄 Know about my experiences [[https://www.hiration.com/dieu/resume/shruti.chemistry.lm/pdf](https://drive.google.com/file/d/1-_1TemNAJ9DOOdbGjkvoRhSNBx5WZxx3/view?usp=share_link)]([https://www.hiration.com/dieu/resume/shruti.chemistry.lm/pdf](https://drive.google.com/file/d/1-_1TemNAJ9DOOdbGjkvoRhSNBx5WZxx3/view?usp=share_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
