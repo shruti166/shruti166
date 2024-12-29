@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **shrutitech98@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1PoqkLk2-PPnLr0CG7_aJZuXUw_0ANUeT/view)](https://drive.google.com/file/d/1PoqkLk2-PPnLr0CG7_aJZuXUw_0ANUeT/view)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shruti-joshi-55b67119a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shruti-joshi-55b67119a/" height="30" width="40" /></a>
