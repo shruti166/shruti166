@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Mongo Database**
 
-- 👨‍💻 All of my projects are available at [https://shrutijoshi.netlify.app/](https://shrutijoshi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shrutijoshi.netlify.app/](https://shruti-joshi.netlify.app/)
 
 - 📝 I regularly write articles on [https://shrutijoshi.hashnode.dev/](https://shrutijoshi.hashnode.dev/)
 
